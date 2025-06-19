@@ -5,7 +5,7 @@
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <StartupObject>CSharpBasics.ControlFlowStatements</StartupObject>
+        <StartupObject>CSharpBasics.JumpStatemt</StartupObject>
     </PropertyGroup>
 
 </Project>
