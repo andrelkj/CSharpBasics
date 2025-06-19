@@ -5,7 +5,7 @@
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <StartupObject>CSharpBasics.JumpStatemt</StartupObject>
+        <StartupObject>CSharpBasics.Arrays</StartupObject>
     </PropertyGroup>
 
 </Project>
