@@ -1,4 +1,4 @@
-namespace CSharpBasics;
+namespace CSharpBasics.Basics;
 
 /*
  * Naming Conventions

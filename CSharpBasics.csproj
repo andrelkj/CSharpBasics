@@ -5,7 +5,7 @@
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <StartupObject>CSharpBasics.Calls</StartupObject>
+        <StartupObject>CSharpBasics.Basics.Variables</StartupObject>
     </PropertyGroup>
 
 </Project>
