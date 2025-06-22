@@ -4,10 +4,7 @@ public class Volkswagen : Car
 {
     static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Volkswagen volkswagen = new Volkswagen();
-            volkswagen.Start();
-        }
+        Volkswagen volkswagen = new Volkswagen();
+        volkswagen.Start();
     }
 }
